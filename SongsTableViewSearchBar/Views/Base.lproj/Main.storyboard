@@ -18,9 +18,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <searchBar contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="3Hy-ch-G69">
-                                <rect key="frame" x="0.0" y="88" width="414" height="56"/>
+                            <searchBar contentMode="redraw" showsScopeBar="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3Hy-ch-G69">
+                                <rect key="frame" x="0.0" y="88" width="414" height="100"/>
                                 <textInputTraits key="textInputTraits"/>
+                                <scopeButtonTitles>
+                                    <string>song title</string>
+                                    <string>artist name</string>
+                                </scopeButtonTitles>
                             </searchBar>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="za2-PZ-dw8">
                                 <rect key="frame" x="0.0" y="144" width="414" height="718"/>
@@ -70,6 +74,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="9m5-lD-OhJ"/>
                     <connections>
+                        <outlet property="searchBarOutlet" destination="3Hy-ch-G69" id="TWB-7v-D4E"/>
                         <outlet property="tableView" destination="za2-PZ-dw8" id="6Lv-TH-23s"/>
                     </connections>
                 </viewController>

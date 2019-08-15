@@ -2,4 +2,118 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SongsTableViewSearchBar/Controllers/ViewController.swift"
+            timestampString = "587606291.965549"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "userRequestedSearch"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SongsTableViewSearchBar.ViewController.userRequestedSearch.getter : Swift.Array&lt;SongsTableViewSearchBar.Song&gt;"
+                  moduleName = "SongsTableViewSearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiaspursuit/Documents/pursuitcodie/week8/SongsSearchBar/SongsTableViewSearchBar/Controllers/ViewController.swift"
+                  timestampString = "587606292.099007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1042">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SongsTableViewSearchBar.Song) -&gt; Swift.Bool in SongsTableViewSearchBar.ViewController.userRequestedSearch.getter : Swift.Array&lt;SongsTableViewSearchBar.Song&gt;"
+                  moduleName = "SongsTableViewSearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiaspursuit/Documents/pursuitcodie/week8/SongsSearchBar/SongsTableViewSearchBar/Controllers/ViewController.swift"
+                  timestampString = "587606292.101189"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SongsTableViewSearchBar/Controllers/ViewController.swift"
+            timestampString = "587606291.9659179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "userRequestedSearch"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SongsTableViewSearchBar.ViewController.userRequestedSearch.getter : Swift.Array&lt;SongsTableViewSearchBar.Song&gt;"
+                  moduleName = "SongsTableViewSearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiaspursuit/Documents/pursuitcodie/week8/SongsSearchBar/SongsTableViewSearchBar/Controllers/ViewController.swift"
+                  timestampString = "587606292.106519"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1658">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SongsTableViewSearchBar.Song) -&gt; Swift.Bool in SongsTableViewSearchBar.ViewController.userRequestedSearch.getter : Swift.Array&lt;SongsTableViewSearchBar.Song&gt;"
+                  moduleName = "SongsTableViewSearchBar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiaspursuit/Documents/pursuitcodie/week8/SongsSearchBar/SongsTableViewSearchBar/Controllers/ViewController.swift"
+                  timestampString = "587606292.108685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SongsTableViewSearchBar/Controllers/ViewController.swift"
+            timestampString = "587606291.966144"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "userRequestedSearch"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
